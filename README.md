@@ -24,9 +24,9 @@ Identifies trends, anomalies, and data distributions to guide feature engineerin
 **Feature Engineering :**
 Created new features such as CreditScoreCategory and LoanIncomeRatio.
 Handled outliers using IQR-based capping for robust modeling.
-Model Building and Evaluation:
 
-**Includes the following models :**
+**Model Building and Evaluation:**
+Includes the following models :
 Logistic Regression
 Random Forest Classifier
 XGBoost
