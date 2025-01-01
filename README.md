@@ -7,7 +7,7 @@ The notebook walks through the entire pipeline from data preprocessing to model 
 The dataset used for this Credit Risk Analysis consists of 80,000 rows and a variety of features related to borrower financial data. 
 Features like LoanAmount, Income, DebtToIncomeRatio, CreditScore, etc.
 
-Target Variable:
+**Target Variable:**
 Defaulted:
 The target variable is a binary classification that indicates whether a borrower has defaulted on the loan or not.
 0 = Not Defaulted
